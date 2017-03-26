@@ -1,7 +1,7 @@
-# Build as natbusa/sysuser-scipy-lab
+# Build as natbusa/sysuser-all-spark-lab
 # Run with the DockerSpawner in JupyterHub
 
-FROM jupyter/datascience-notebook
+FROM jupyter/all-spark-notebook
 
 MAINTAINER Natalino Busa <natalino.busa@gmail.com>
 
