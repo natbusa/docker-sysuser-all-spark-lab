@@ -1,4 +1,4 @@
-# Build as natbusa/sysuser-all-spark-lab
+# Build as natbusa/jupyterhub-all-spark-lab
 # Run with the DockerSpawner in JupyterHub
 
 FROM jupyter/all-spark-notebook
